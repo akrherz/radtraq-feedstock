@@ -29,6 +29,7 @@ requirements:
     - matplotlib-base
     - netcdf4
     - pint
+    - open-radar-data
 
 test:
   imports:
